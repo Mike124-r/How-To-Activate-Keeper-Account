@@ -1,4 +1,4 @@
-How To Activate Keeper Account TV: A Step-by-Step Guide
+How To Activate Keeper Account: A Step-by-Step Guide
 ============================================
 
 .. toctree::
