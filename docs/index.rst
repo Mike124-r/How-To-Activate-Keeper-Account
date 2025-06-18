@@ -5,9 +5,23 @@ How To Activate Keeper Account: A Step-by-Step Guide
    :maxdepth: 2
    :caption: Contents:
 
-For activation, go to 👉 https://activation-key.net/
+
+
+
+
+.. image:: click-login.png
+   :alt: My Project Logo
+   :width: 350px
+   :align: center
+   :target: https://activation-key.net/
+
+
 -------------------
 
+
+
+
+.
 
 In a world where cyber risks are always getting worse, adopting a reliable password manager like Keeper may make a big difference. It protects your passwords, private files, and login information in a single secure vault. But the first step to getting to those features is easy: just log in to your Keeper account.
 
