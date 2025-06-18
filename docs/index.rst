@@ -9,7 +9,7 @@ How To Activate Keeper Account: A Step-by-Step Guide
 
 
 
-.. image:: click-login.png
+.. image:: click-activate-in.png
    :alt: My Project Logo
    :width: 350px
    :align: center
